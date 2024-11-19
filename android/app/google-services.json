@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "353988298",
+    "project_id": "nearby-8d2bc",
+    "storage_bucket": "nearby-8d2bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353988298:android:a4c7615953706b5a2fce33",
+        "android_client_info": {
+          "package_name": "com.kosangbum.nearby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353988298-4ee0pulvev0dcrbttia6v93tbhc4eso6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAII40kPMdPSBUEWaWCYoPYrBZ-qfC_0Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353988298-4ee0pulvev0dcrbttia6v93tbhc4eso6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353988298-i4l2mhljsv661eos2c0ukk0pub2bhffj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nearby"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
